@@ -7,4 +7,3 @@ joblib
 matminer
 pymatgen
 setuptools
-python == 3.11
