@@ -6,4 +6,4 @@ xgboost
 joblib
 matminer
 pymatgen
-setuptools
+setuptools>=70.0.0
