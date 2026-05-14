@@ -8,3 +8,4 @@ joblib
 pillow
 mp-api
 pymatgen
+matminer
